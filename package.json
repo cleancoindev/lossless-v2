@@ -22,7 +22,7 @@
     "@openzeppelin/hardhat-upgrades": "^1.7.0",
     "ethereum-waffle": "^3.3.0",
     "hardhat": "2.4.3",
-    "hardhat-abi-exporter": "^2.2.1",
+    "hardhat-abi-exporter": "^2.8.0",
     "hardhat-gas-reporter": "^1.0.4",
     "solidity-coverage": "^0.7.16"
   },
