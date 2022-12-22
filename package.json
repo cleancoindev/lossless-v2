@@ -24,7 +24,7 @@
     "hardhat": "2.4.3",
     "hardhat-abi-exporter": "^2.2.1",
     "hardhat-gas-reporter": "^1.0.4",
-    "solidity-coverage": "^0.7.16"
+    "solidity-coverage": "^0.8.0"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
